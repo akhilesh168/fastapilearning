@@ -1,0 +1,2 @@
+ATLAS_URI = mongodb+srv://akhileshsharma168:<password>@cluster0.jmtfoad.mongodb.net/?retryWrites=true&w=majority
+DB_NAME = pymango_tutorial
